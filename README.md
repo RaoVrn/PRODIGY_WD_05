@@ -16,6 +16,12 @@ A minimalist weather application that allows users to quickly retrieve current w
 <img src="screenshot-1.png" alt="Screenshot 1" width="400">
 <img src="screenshot-2.png" alt="Screenshot 2" width="400">
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
 ## Installation
 1. Clone the repository: `git clone https://github.com/RaoVrn/PRODIGY_WD_05`
 2. Navigate to the project directory.
@@ -27,7 +33,7 @@ A minimalist weather application that allows users to quickly retrieve current w
 3. View the current weather details displayed on the screen.
 
 ## Dependencies
-- None
+- [OpenWeatherMap API](https://openweathermap.org/api) - Provides weather data for the application.
 
 ## API Used
 - [OpenWeatherMap API](https://openweathermap.org/api)
