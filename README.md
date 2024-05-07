@@ -17,7 +17,7 @@ A minimalist weather application that allows users to quickly retrieve current w
 <img src="screenshot-2.png" alt="Screenshot 2" width="400">
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/weather-app.git`
+1. Clone the repository: `git clone https://github.com/RaoVrn/PRODIGY_WD_05/blob/main/README.md`
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
 
