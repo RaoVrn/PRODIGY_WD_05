@@ -13,8 +13,8 @@ A minimalist weather application that allows users to quickly retrieve current w
 [Link to live demo](#) *(Replace this with the actual link when you deploy the app)*
 
 ## Screenshots
-![Screenshot 1](screenshot-1.png)
-![Screenshot 2](screenshot-2.png)
+<img src="screenshot-1.png" alt="Screenshot 1" width="400">
+<img src="screenshot-2.png" alt="Screenshot 2" width="400">
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/weather-app.git`
