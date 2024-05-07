@@ -10,7 +10,7 @@ A minimalist weather application that allows users to quickly retrieve current w
 - Responsive design for optimal viewing on various devices.
 
 ## Demo
-[Link to live demo](#) *(Replace this with the actual link when you deploy the app)*
+[https://raovrn.github.io/PRODIGY_WD_05/](#) *(Replace this with the actual link when you deploy the app)*
 
 ## Screenshots
 <img src="screenshot-1.png" alt="Screenshot 1" width="400">
